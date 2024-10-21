@@ -18,7 +18,7 @@ public class ParkingSystem extends JFrame {
     private JButton parkButton, unparkButton;
     private JTextArea displayArea;
     public ParkingSystem() {
-        setTitle("Beginner Parking System");
+        setTitle("Utkarsh Parking System");
         setSize(600, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(null);
